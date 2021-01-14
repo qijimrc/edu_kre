@@ -2,7 +2,7 @@
 
 
 
-.
+.```
 |___data
 |   |__data_analysis
 |   |__data_prepare
@@ -14,3 +14,4 @@
 |___docs
 |
 |__README.md
+```
